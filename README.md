@@ -3,7 +3,7 @@
 
 <h3>REGISTER NO: 212222240039 </h3>
 <h3>EX. NO: 5</h3>
-<h3>DATE: 15-10-2024 </h3>
+<h3>DATE: 16-10-2024 </h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
